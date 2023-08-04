@@ -22,7 +22,6 @@ Este é um bot automatizado de investimento em opções binárias desenvolvido u
 
 ### Contato:
 
-- WhatsApp: [https://wa.me/5511977476664](https://wa.me/5511977476664)
 - Telegram: [https://t.me/reactdavicastro](https://t.me/reactdavicastro)
 
 ### Aviso Legal:
