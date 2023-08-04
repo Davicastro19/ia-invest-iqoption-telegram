@@ -16,7 +16,6 @@ Este é um bot automatizado de investimento em opções binárias desenvolvido u
 
 - `/start`: Inicia a interação com o bot e apresenta o menu principal.
 - `/login`: Permite que os usuários façam login na plataforma da IQ Option.
-- `/myconf`: Exibe a configuração atual do usuário, incluindo Stop Win, Stop Loss, Investimento, PayOut, Paridade, Fator Gale e Gale.
 - `/config`: Permite ao usuário configurar as preferências do bot, como valor de Stop Win, Stop Loss, PayOut, Paridade, Fator Gale, Gale e Valor do Investimento.
 - `/play`: Inicia o bot e começa a realizar operações automáticas de acordo com a configuração definida pelo usuário.
 - `/stop`: Pausa o bot e interrompe as operações automáticas em andamento.
